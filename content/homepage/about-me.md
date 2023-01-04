@@ -6,7 +6,7 @@ header_menu: true
 
 ![Anna Sigurðardóttir](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-I was born in Denmark, but moved to Iceland as a young girl. I moved
+I grew up in Iceland and lived there until year 2000. I moved
 to Denmark to study Medicin before finding my passion in
 Nutrition. 
 
@@ -18,7 +18,7 @@ changes.
 
 ##### Professionel Experience
 
-I obtained my Masters degree in Clinical Nutrition in 20XX, which
+I obtained my Masters degree in Clinical Nutrition in 2015, which
 included working alongside dietitians in the Danish healthcare
 system. The Masters degree in Clinical Nutrition is primarily focused
 on working alongside doctors and dietitians in a clinical setting.
