@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Anna Sigurðardóttir](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![Anna Sigurðardóttir](images/IMG_5591.jpeg)
 
 I grew up in Iceland and lived there until year 2000. I moved
 to Denmark to study Medicin before finding my passion in
