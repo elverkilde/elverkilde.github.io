@@ -16,7 +16,7 @@ Whether you are making a lifestyle change, adjust to new dietary
 requirements or just looking for inspiration, I have helped many in a
 similar situation.
 
-![Healthy eating](images/istockphoto-1295633127-1024x1024.jpg)
+![Healthy eating](images/brooke-lark-jUPOXXRNdcA-unsplash.jpg)
 
 Normally we will discuss your needs in an introductory call and create
 a plan. I offer discounts for 10 sessions or more.
