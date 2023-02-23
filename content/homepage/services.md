@@ -28,8 +28,7 @@ a plan. I offer discounts for 10 sessions or more.
 As a nutritionist, I know bread has gotten a bad reputation recently
 but I personally couldn't live without bread in my diet.
 
-![Baking courses](images/leiliane-fagundes-0sTX2h8FpXk-unsplash.jpg)
-*Photo by <a href="https://unsplash.com/@leiliane?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Leiliane Fagundes</a> on <a href="https://unsplash.com/photos/0sTX2h8FpXk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+![Baking courses](images/jonathan-pielmayer-j1gr2w10EtQ-unsplash.jpg)
 
 I bake my own sourdough bread as well as traditional Danish rye
 bread. I love sharing this passion and provide group courses,
